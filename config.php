@@ -1,10 +1,4 @@
 <?php
-
-/**
- * Used to store website configuration information.
- *
- * @var string
- */
 function config($key = '')
 {
     $config = [
