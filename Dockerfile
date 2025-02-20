@@ -1,4 +1,4 @@
-# Use an official PHP runtime as a parent image
+# Use an official PHP runtime as a parent images
 FROM php:7.4-apache
 
 # Set the working directory in the container
